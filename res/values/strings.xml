@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App1</string>
+    <string name="result">Result</string>
+    <string name="start">Local start</string>
+    <string name="stop">Remote start</string>
+    <string name="enter">Enter number</string>
+    <string name="reset">Reset</string>
+</resources>
